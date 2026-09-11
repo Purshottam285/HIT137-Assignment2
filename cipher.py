@@ -15,7 +15,7 @@ Encryption rules (per assignment brief):
     Everything else (spaces, punctuation, symbols): unchanged.
 
 Decryption note:
-    The rule applied to a letter depends on which half of the alphabet the
+    The rule that applied to a letter depends on which half of the alphabet the
     ORIGINAL letter came from. After encryption we no longer know that half
     directly, so decryption tries both possible inverse shifts and keeps the
     one whose recovered letter falls back into the correct half. In rare
