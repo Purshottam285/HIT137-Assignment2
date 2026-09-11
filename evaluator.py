@@ -1,5 +1,5 @@
 """
-HIT137 Group Assignment 2 - Question 2
+HIT137 Group Assessment-2 - Question 2
 evaluator.py
 
 Reads mathematical expressions from a text file (one per line), evaluates
@@ -400,7 +400,7 @@ def _render_block(block):
 
 
 # ---------------------------------------------------------------------------
-# Run as a script
+# Run this as a script
 # ---------------------------------------------------------------------------
 
 if __name__ == "__main__":
