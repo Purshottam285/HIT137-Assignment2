@@ -2,9 +2,16 @@
 
 Group submission for HIT137 Assignment 2 (20% mark).
 #Group Members
--Pawan Koirala(S408952)Purshottam285
--Parivesh Khadka chhetri(S398438)
--Noel Karunathilake(S389821)
+Name | Student ID | GitHub | Question 1 (cipher.py) | Question 2 (evaluator.py) |
+|------|-----------|--------|:---:|:---:|
+| Pawan Koirala | S408952 | Purshottam285 | ✅ | ✅ |
+| Parivesh Khadka Chhetri | S398438 | — | ✅ | |
+| Noel Karunathilake | S389821 | — | | ✅ |
+
+**Question 1 (cipher.py):** Pawan Koirala and Parivesh Khadka Chhetri
+**Question 2 (evaluator.py):** Pawan Koirala and Noel Karunathilake
+
+GitHub repository: https://github.com/Purshottam285/HIT137-Assignment2
 ## Contents
 
 | File | Description |
