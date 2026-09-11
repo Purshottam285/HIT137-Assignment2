@@ -9,7 +9,7 @@ Name | Student ID | GitHub | Question 1 (cipher.py) | Question 2 (evaluator.py) 
 | Noel Maksymilian Karunathilake| S389821 | — | | ✅ |
 
 **Question 1 (cipher.py):** Pawan Koirala and Parivesh Khadka Chhetri
-**Question 2 (evaluator.py):** Pawan Koirala and Noel Karunathilake
+**Question 2 (evaluator.py):** Pawan Koirala, Parivesh Khadka Chhetri and Noel Karunathilake
 
 GitHub repository: https://github.com/Purshottam285/HIT137-Assignment2
 ## Contents
