@@ -1,7 +1,10 @@
 # HIT137 Group Assignment 2
 
 Group submission for HIT137 Assignment 2 (20% mark).
-
+#Group Members
+-Pawan Koirala(S408952)Purshottam285
+-Parivesh Khadka chhetri(S398438)
+-Noel Karunathilake(S389821)
 ## Contents
 
 | File | Description |
