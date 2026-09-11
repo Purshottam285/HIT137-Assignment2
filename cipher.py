@@ -1,5 +1,5 @@
 """
-HIT137 Group Assignment 2 - Question 1
+HIT137 Group Assessment-2 - Question 1
 cipher.py
 
 Reads raw_text.txt, encrypts using a two-input shift cipher, writes
