@@ -46,13 +46,15 @@ The program prompts for `shift1` and `shift2` (non-negative integers), then:
 3. Decrypts that file and writes `decrypted_text.txt`.
 4. Prints whether the decryption matches the original.
 
-**Note about verification.** The encryption rule for a letter depends on
-which half of the alphabet the *original* letter came from. Once encrypted,
-that information is lost, so decryption tries both possible inverse shifts
-and chooses the one whose recovered letter lands in the matching half.
-For most shift pairs this recovers the original text; for some pairs the
-two candidates are both valid and the cipher is inherently ambiguous. The
-`verify_files` function tells if the recovered text matches with the original.
+**Note about verification.** The encryption method changes each letter based
+on whether it originally came from the first or second half of the alphabet.
+After encryption, that original information is no longer available. To deal
+with this, the decryption process checks both possible reverse shifts  and 
+keeps the result that fits the correct half of the alphabet. In most cases
+this recreates the original text, but some shift contributors can produce two
+valid results, making cipher naturally ambiguous. The `verify_files` clearly
+indicates whether the recovered text matches the original.
+
 
 ### Question 2
 
