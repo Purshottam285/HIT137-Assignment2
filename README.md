@@ -5,7 +5,7 @@ Group submission for HIT137 Assignment 2 (20% mark).
 Name | Student ID | GitHub | Question 1 (cipher.py) | Question 2 (evaluator.py) |
 |------|-----------|--------|:---:|:---:|
 | Pawan Koirala | S408952 | Purshottam285 | ✅ | ✅ |
-| Parivesh Khadka Chhetri | S398438 | prabeshkhadka001-gif| ✅ | |
+| Parivesh Khadka Chhetri | S398438 | prabeshkhadka001-gif| ✅ | ✅ |
 | Noel Karunathilake | S389821 | — | | ✅ |
 
 **Question 1 (cipher.py):** Pawan Koirala and Parivesh Khadka Chhetri
