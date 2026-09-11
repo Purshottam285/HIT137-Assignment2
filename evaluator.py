@@ -102,7 +102,7 @@ def tokenize(expr):
 # Recursive-descent parser
 # ---------------------------------------------------------------------------
 #
-# The parser walks a shared list of tokens with an integer position. Each
+# The parser walks a shared list of tokens with an integer position.Each
 # non-terminal in the grammar is implemented as its own function, and
 # parenthesised sub-expressions recurse back to parse_expr().
 #
