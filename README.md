@@ -55,6 +55,23 @@ this recreates the original text, but some shift contributors can produce two
 valid results, making cipher naturally ambiguous. The `verify_files` clearly
 indicates whether the recovered text matches the original.
 
+## Testing (Question 1)
+
+We manually verified `cipher.py` against `raw_text.txt` using two different
+shift value pairs:
+
+**shift1=3, shift2=5**
+- Ran `encrypt_file`, then `decrypt_file` on the result.
+- `verify_files` confirmed the decrypted text matched the original `raw_text.txt`.
+
+**shift1=7, shift2=2**
+- Same process — encryption, decryption, then verification.
+- `verify_files` confirmed a successful match again.
+
+Both runs confirm the transformation rules (lowercase first/second half,
+uppercase first/second half, digits, unchanged punctuation/whitespace) are
+applied correctly and reversed correctly during decryption.
+
 
 ### Question 2
 
